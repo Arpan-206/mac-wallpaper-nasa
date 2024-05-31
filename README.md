@@ -7,4 +7,3 @@ Steps to Have Live NASA Wallpaper on Your Desktop (MAC ONLY):
 5. Run the app using `python wallpaper-changer.py`
 6. If you want to change the wallpaper every 12 hours, add the script to your crontab using `crontab -e` and add `0 */12 * * * <path-to-the-code>/wallpaper-changer.sh` to it
 7. Enjoy your live NASA wallpaper!
-# mac-wallpaper-nasa
